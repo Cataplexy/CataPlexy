@@ -1,8 +1,3 @@
 CataPlexy
 =========
-touch README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin https://github.com/Cataplexy/CataPlexy.git
-git push -u origin master
+Welcome :) This is just where I keep my files. As they are Public, feel free to download anything you like.
