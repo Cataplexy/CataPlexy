@@ -9,7 +9,7 @@ by Dienofail
 WITH HUGE CREDIT TO SIDA FOR HELPING AND ADDING NECESSARY FUNCTIONS TO REBORN
 
 
-Currently requires Reborn v48 or above, and Prodiction. 
+Currently requies Reborn v48 or above, and Prodiction. 
 
 
 v0.00 - release
